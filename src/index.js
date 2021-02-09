@@ -3,7 +3,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import _ from "lodash";
 import { Slider } from "src/Slider";
-import { Parallax } from "src/Parallax";
+import { Parallax } from "src/Parallax.js";
 import { FixedRatio } from "src/FixedRatio";
 import "src/reset.css";
 import "src/styles.css";
