@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 import _ from "lodash";
 import { Slider } from "src/Slider";
 import { Parallax } from "src/Parallax.js";
-import { FixedRatio } from "src/FixedRatio";
+import { FixedRatio } from "src/FixedRatio.js";
 import "src/reset.css";
 import "src/styles.css";
 
