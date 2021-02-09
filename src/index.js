@@ -2,11 +2,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import _ from "lodash";
-import { Slider } from "./Slider";
-import { Parallax } from "./Parallax";
-import { FixedRatio } from "./FixedRatio";
-import "./reset.css";
-import "./styles.css";
+import { Slider } from "src/Slider";
+import { Parallax } from "src/Parallax";
+import { FixedRatio } from "src/FixedRatio";
+import "src/reset.css";
+import "src/styles.css";
 
 const rootElement = document.getElementById("root");
 
